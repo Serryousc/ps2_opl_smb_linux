@@ -116,7 +116,7 @@ Configuração manual:
 
 ## Configuração OPL no PS2
 
-![WhatsApp Image 2026-04-17 at 2.33.47 PM.jpeg](attachment:d9a675c6-e342-4bee-a9d0-86c8c4772ed7:a7754c0a-86ed-4e34-9d4d-cda1f61f879b.png)
+![Configuração OPL no PS2](PS2OPLIMG.jpg)
 
 ---
 
