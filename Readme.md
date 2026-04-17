@@ -1,4 +1,4 @@
-###🎮 PS2 OPL + SMB (Linux) — Rodando jogos via rede
+#🎮 PS2 OPL + SMB (Linux) — Rodando jogos via rede
 
 ## 📌 Overview
 
